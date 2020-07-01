@@ -9,37 +9,37 @@
          line-height: 75px;
      }
      /* -----------------.superContainer----------------- */
-     .superContainer aside div {
+     .superContainer aside {
          position: relative;
          height: 150px;
          border: 1px solid black;
      }
-     .superContainer aside div p {
+     .superContainer aside  p {
          line-height: 150px;
      }
      .superContainer #container1 div {
          height: 125px;
          border-top: none;
      }
-     .superContainer #container1 div p {
+     .superContainer .container1 div p {
          line-height: 125px;
      }
-     #container2 {
+     .container2 {
          display: flex;
          flex-wrap: wrap;
      }
-     .superContainer #container2 div {
+     .superContainer .container2 div {
          height: 250px;
          width: 50%;
      }
-     .superContainer #container2 div p {
+     .superContainer .container2 div p {
          line-height: 250px;
      }
      /* -----------------Footer----------------- */
-     footer div {
+     footer  {
          height: 80px;
      }
-     footer div p {
+     footer  p {
          line-height: 80px;
      }
  }
@@ -80,6 +80,4 @@
      .container2 div {
         width: 100%;
     }
-     .superContainer #container1 div {
-     }
  }
