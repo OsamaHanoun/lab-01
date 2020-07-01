@@ -1,15 +1,15 @@
 header {
     background-color:#000000 ;
 }
-main aside {
+.superContainer aside {
     background-color:#b83b5e ;
 
 }
-main #container1 {
+.container1 {
     background-color:#e9da3c ;
 
 }
-main #container2 {
+.container2 {
     background-color:#7e1788 ;
 
 }
